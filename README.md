@@ -39,3 +39,6 @@ The CLI generates:
 The Streamlit app allows you to:
 - Preview the report
 - Download JSON and Markdown files
+
+![Streamlit UI](Image/UI.png)
+
